@@ -1,4 +1,4 @@
 import React from "react";
-export default function lfg() {
+export default function Work() {
   return <h3>plsssss work</h3>;
 }
